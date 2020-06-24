@@ -29,7 +29,8 @@
       "product-name",
       "product-identifier.product",
       "product-price",
-      "flex-layout.row"
+      "flex-layout.row",
+      "shipping-simulator"
     ]
   },
 
