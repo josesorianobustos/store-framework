@@ -18,7 +18,7 @@
       "product-images"
     ]
   },
-  
+
   "flex-layout.col#right": {
     "props": {
       "preventVerticalStretch": "true",
@@ -32,8 +32,8 @@
   },
   "product-price": {
     "props": {
-      "showSavings": true,
-      "showListPrice": false
+      "showSavings": "true",
+      "showListPrice": "false"
     }
   }
   
